@@ -1,4 +1,4 @@
-# Art-With-Machine-Learning
+# Art With Machine Learning
 Art With Machine Learning Capstone Project
 University of Toledo College of Engineering
 Developed By:
