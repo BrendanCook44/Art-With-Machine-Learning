@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5747af3e-8cac-47f9-a827-0d8fa749a3e5}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile>GUI Layout\Main.py</StartupFile>
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="GUI Layout\ImageResourceFile.py" />
+    <Compile Include="GUI Layout\Win2.py" />
+    <Compile Include="GUI Layout\Win1.py" />
+    <Compile Include="GUI Layout\Main.py" />
+    <Compile Include="Program Actions\GUI Actions.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="GUI Layout" />
+    <Folder Include="Checkpoints\" />
+    <Folder Include="Images\" />
+    <Folder Include="Images\Camera Photo\" />
+    <Folder Include="Program Actions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Checkpoints\la_muse.ckpt" />
+    <Content Include="Checkpoints\rain_princess.ckpt" />
+    <Content Include="Checkpoints\scream.ckpt" />
+    <Content Include="Checkpoints\udnie.ckpt" />
+    <Content Include="Checkpoints\wave.ckpt" />
+    <Content Include="Checkpoints\wreck.ckpt" />
+    <Content Include="Images\Camera Photo\myhc_333195.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+</Project>

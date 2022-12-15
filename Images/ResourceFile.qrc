@@ -1,0 +1,46 @@
+<RCC>
+  <qresource prefix="Logo">
+    <file>Logos/College of Engineering Logo.png</file>
+    <file>Logos/index.png</file>
+    <file>Logos/LogoNoBorder.png</file>
+    <file>Logos/LogoNoBorder-removebg-preview.png</file>
+    <file>Logos/Project Logo.jpg</file>
+  </qresource>
+  <qresource prefix="Camera">
+    <file>Camera Photo/Input Picture.jpg</file>
+  </qresource>
+  <qresource prefix="Original">
+    <file>Original Pictures/Stylized La Muse.jpg</file>
+    <file>Original Pictures/Great Wave - Original.jpg</file>
+    <file>Original Pictures/La Muse - Original.jpg</file>
+    <file>Original Pictures/Rain Princess - Original.jpg</file>
+    <file>Original Pictures/Scream - Original.jpg</file>
+    <file>Original Pictures/Shipwreck_turner.jpg</file>
+    <file>Original Pictures/Starry Night - Original.jpg</file>
+    <file>Original Pictures/Udnie - Original.jpg</file>
+    <file>Original Pictures/Udnie.jpg</file>
+    <file>Original Pictures/Wreck - Original.jpg</file>
+    <file>Original Pictures/wreck.jpg</file>
+  </qresource>
+  <qresource prefix="Credits Window">
+    <file>Original Pictures/Stylized La Muse.jpg</file>
+  </qresource>
+  <qresource prefix="Resized">
+    <file>Resized Pictures/Great Wave - Resized.jpg</file>
+    <file>Resized Pictures/La Muse - Resized.jpg</file>
+    <file>Resized Pictures/Rain Princess - Resized.jpg</file>
+    <file>Resized Pictures/Scream - Resized.jpg</file>
+    <file>Resized Pictures/Starry Night - Resized.jpg</file>
+    <file>Resized Pictures/Udnie - Resized.jpg</file>
+    <file>Resized Pictures/Wreck - Resized.jpg</file>
+  </qresource>
+  <qresource prefix="Stylized">
+    <file>Stylized Pictures/Stylized Great Wave.jpg</file>
+    <file>Stylized Pictures/Stylized La Muse.jpg</file>
+    <file>Stylized Pictures/Stylized Rain Princess.jpg</file>
+    <file>Stylized Pictures/Stylized Scream.jpg</file>
+    <file>Stylized Pictures/Stylized Starry Night.jpg</file>
+    <file>Stylized Pictures/Stylized Udnie.jpg</file>
+    <file>Stylized Pictures/Stylized Wreck.jpg</file>
+  </qresource>
+</RCC>
