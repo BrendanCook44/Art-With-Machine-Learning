@@ -8,7 +8,7 @@ The Art With Machine Learning program is created by:
 -Brian Lamont  
 -Zak Rule  
 
-The program takes a picture from a camera feed (webcam for example) and renders the picture taken in various artistic styles from renowned artists all around the world! Not only that, but it has the capability of learning new artistic styles through the use of Tensorflow and the Nvidia CUDA/cudNN libraries to accelerate the training process of new styles through the use of GPU Hardware Acceleration.
+The program takes a picture from a camera feed (webcam for example) and renders the picture taken in various artistic styles from renowned artists all around the world. Not only that, but it has the capability of learning new artistic styles too! Using Tensorflow and the Nvidia CUDA/cudNN software libraries, the program can learn the style of any provided image (saved as a .ckpt file under the checkpoints folder during the learning process) as well as accelerate the  process of learning new styles using GPU Hardware Acceleration.  
 
 Instructions:  
 
@@ -31,6 +31,6 @@ Showcase Example:
 
 Thanks to the University of Toledo for allowing us to create such an awesome project to be used as a display piece within the College of Engineering!  
 
-Credit to Logan Engstrom for providing the fast style transfer master repository:  
+Credit to Logan Engstrom for providing the public fast style transfer master repository:  
 https://github.com/lengstrom/fast-style-transfer
 
