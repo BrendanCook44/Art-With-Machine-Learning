@@ -15,6 +15,7 @@ Instructions:
 1.) Ensure that a webcam or similar camera device is connected and that the display is set to 1920x1080 for the GUI to display properly.  
 2.) Run the following commands within your python environment to install the necessary libraries for the program:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-pip install pyqt5  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-pip install opencv-python  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-pip install tensorflow  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-pip install moviepy
 
