@@ -25,6 +25,6 @@ Example:
 
 Thanks to the University of Toledo for allowing us to create such an awesome project to be used as a display piece within the College of Engineering!  
 
-Credit to Logan Engstrom for providing the fast style transfer master repository:
+Credit to Logan Engstrom for providing the fast style transfer master repository:  
 https://github.com/lengstrom/fast-style-transfer
 
