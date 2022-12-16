@@ -5,5 +5,5 @@ The program takes a picture from a camera feed (webcam for example) and renders 
 
 To start the program, ensure a camera device is connected, run the "main.py" file within the GUI Layout folder, and install the necessary Python libraries when the command prompt lists what libraries are missing in order for the program to run properly.
 
-Credit To Logan Engstrom For Providing The Fast Style Transfer Master Repository:
+Credit to Logan Engstrom for providing the fast style transfer master repository:
 https://github.com/lengstrom/fast-style-transfer
